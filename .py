@@ -1,2 +1,2 @@
-a = 2
-print (a)  # Output: 2
+a = 3
+print (a)  # Output: 3s
